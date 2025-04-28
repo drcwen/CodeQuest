@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/navDashboard"
+            android:title="DASHBOARD"
+            android:icon="@drawable/dashboard"/>
+
+        <item
+            android:id="@+id/navMaintenance"
+            android:title="MAINTENANCE"
+            android:icon="@drawable/maintenance"/>
+
+        <item
+            android:id="@+id/navStudMan"
+            android:title="STUDENT MANAGEMENT"
+            android:icon="@drawable/studentmanagement"/>
+
+        <item
+            android:id="@+id/navStudArchive"
+            android:title="STUDENT ARCHIVE"
+            android:icon="@drawable/studentarchive"/>
+
+        <item
+            android:id="@+id/navReports"
+            android:title="REPORTS"
+            android:icon="@drawable/baseline_outlined_flag_24"/>
+
+        <item
+            android:id="@+id/navLogout"
+            android:title="LOG OUT"
+            android:icon="@drawable/baseline_logout_24"/>
+
+
+
+
+</menu>
